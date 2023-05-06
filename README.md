@@ -1,8 +1,10 @@
 # SR-Assets
 
-Collection of SR Characters. 
+Collection of SR Characters, Monsters, NPC. 
 
 `(Note: If you click on the images, you will find the folder where the model is located)`
+
+[Here](Monsters_UI.md)```you can see the UI of the monsters.```
 
 # Characters
 
@@ -15,7 +17,6 @@ Collection of SR Characters.
 | ```Player Girl 00``` | ```Player Girl 10``` |
 | --- | --- |
 | <a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerGirl_00/"> <img src="/img/8002.png"/></a> | <a href="https://github.com/m4urlclo0/SR-Assets/tree/main/Characters/Avatar_PlayerGirl_10/"> <img src="/img/8004.png"/></a> | 
-{:width="50%"}
 
 ---
 

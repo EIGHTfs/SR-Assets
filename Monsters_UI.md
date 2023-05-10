@@ -10,7 +10,7 @@
 
 | ```Abomi``` | ```Mecha03``` | ```Monster Cocolia``` |
 | --- | --- | --- |
-| <a href=""><img src="/img/Monsters/Monster_2023010.png" style="width:350px; height:auto;"/></a> | <a href="/"> <img src="/img/Monsters/Monster_1023020.png" style="width:350px; height:auto;"/></a> | <a href=""> <img src="/img/Monsters/Monster_1005010.png" style="width:350px; height:auto;"/></a> |
+| <a href="/Monsters/Art_AML_Boss_00"><img src="/img/Monsters/Monster_2023010.png" style="width:350px; height:auto;"/></a> | <a href="/Monsters/"> <img src="/img/Monsters/Monster_1023020.png" style="width:350px; height:auto;"/></a> | <a href="/Monsters/Art_W1_CocoliaP2_00"> <img src="/img/Monsters/Monster_1005010.png" style="width:350px; height:auto;"/></a> |
 
 --- 
 

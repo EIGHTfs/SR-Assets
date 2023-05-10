@@ -4,8 +4,8 @@ Collection of SR Characters, Monsters, NPC.
 
 `(Note: If you click on the images, you will find the folder where the model is located)`
 
-[Here](Monsters_UI.md)```you can see the UI of the monsters.```
-
+[Here](Monsters_UI.md)``` you can see the UI of the monsters.```
+[Here](NPC_UI.md)``` you can see the UI of the NPC.```
 # Characters
 
 ---
